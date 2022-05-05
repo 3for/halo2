@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Column","Metadata about a column within a circuit."],["Constraint","Metadata about a configured constraint within a circuit."],["Gate","Metadata about a configured gate within a circuit."],["Region","Metadata about an assigned region within a circuit."]]});
